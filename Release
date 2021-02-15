@@ -5,4 +5,8 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
+<<<<<<< HEAD
 Description: Kesa_2773 - лучший в мире репо 
+=======
+Description: Kesa - a top cydia repo 
+>>>>>>> b002bec50cc7792a9fb082dfa5462d04b3742a82
